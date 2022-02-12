@@ -6,7 +6,6 @@
   <a href="https://github.com/mhsouza88/portfolio/blob/main/LICENSE" target="_blank"><img src="https://img.shields.io/static/v1?label=License&message=MIT&color=informational"></a>
  </p>
  
- 
  <h2> ⚛️ﾠSobre</h2>
  <p>Projeto feito durante o bootcamp fullstack web da <a href="https://www.labenu.com.br/" target="_blank">Labenu</a>. Este é o meu portfólio pessoal, uma simples landing page com informações básicas sobre quem sou eu, minhas habilidades, educação, projetos e contato. O projeto foi feito com o React.js e a estilização conta com Material UI e Styled Components, totalmente responsivo em aparelhos móveis. A aplicação também é bilíngue, ao clicar no ícone que simboliza tradução, o usuário pode escolher deixar a página em português ou inglês.
 </p><br/>
