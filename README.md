@@ -36,8 +36,6 @@
 <p>Antes de começar você vai precisar ter instalado em sua máquina as seguintes ferramentas: o <a href="https://git-scm.com" target="_blank">Git</a> e o <a href="https://nodejs.org/en/" target="_blank">Node.js</a>.
 Além disso, é bom ter uma IDE para trabalhar com o código. Eu recomendo o <a href="https://code.visualstudio.com" target="_blank">VSCode</a>.</p><br/>
 
-  
-
 <h2> 🚀ﾠRodando o projeto </h2>
 
 ```bash
