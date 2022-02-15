@@ -14,7 +14,6 @@
  <h2> 🔗ﾠLink</h2>
  <p>- <a href="https://www.mhsouza88.com/" target="_blank">Portfólio</a></p><br/>
 
-
 <h2> 🛠️ﾠTecnologias</h2>
 <p> - <a href="https://pt-br.reactjs.org/" target="_blank">React.js</a>: React é uma biblioteca JavaScript para construção de interfaces de usuário.</p>
 <p> - <a href="https://www.npmjs.com/package/react-type-animation" target="_blank">React-type-animation</a>: Um componente customizável para React que simula uma máquina de escrever.</p>
