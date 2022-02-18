@@ -22,7 +22,6 @@
 <p> - <a href="https://www.npmjs.com/package/react-scroll-to-top" target="_blank">React-scroll-to-top</a>: Um componente/botão customizável para React que retorna ao início da página quando clicado.</p>
 <br/>
 
-
 <h2> 🖼️ﾠPreview</h2>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/88038506/153507284-f83a3af9-3747-4e46-acf9-dfa9c13d2c4e.gif" alt="Preview">
